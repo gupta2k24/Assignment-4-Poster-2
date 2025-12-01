@@ -1,6 +1,6 @@
-# EAI_Assignment_Poster_1and-Poster_2
+# EAI_Assignment_Poster_1 and Poster_2
 
 ## Poster 1
-Space_Craft_Identifier
+Spacecraft_Identifier
 ## Poster 2
 Moon_Phases_Identifier
