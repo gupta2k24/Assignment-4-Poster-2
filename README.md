@@ -1,6 +1,6 @@
-# EAI_Assignment_Poster_1 and Poster_2
+# EAI_Assignment_Poster_2
 
-## Poster 1
-Spacecraft_Identifier
 ## Poster 2
 Moon_Phases_Identifier
+
+AI model that identifies moon phases from images in real time, using a deep-learning classification pipeline trained on curated lunar imagery.
